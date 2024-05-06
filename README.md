@@ -1,5 +1,6 @@
 
-<img src="![logo](https://github.com/Sahildavkhar/ResiHub-v1.0.5/assets/141304285/b98f66bd-c172-492f-b46d-c0e09bbfa1b9)" alt="logo" width="200" align=centre/>
+![logo](https://github.com/Sahildavkhar/ResiHub-v1.0.5/assets/141304285/69508641-6104-4962-b38a-0fa92f64a152)\n
+
 
 # __ResiHub-A residence management app__
 
@@ -34,7 +35,7 @@ https://github.com/Sahildavkhar/ResiHub-v1.0.5/assets/141304285/81810d1b-bb57-43
 
 ![7](https://github.com/Sahildavkhar/ResiHub-v1.0.5/assets/141304285/a8471072-d1fa-4953-8ae4-95ecec7d122e)\n
 
-![5](https://github.com/Sahildavkhar/ResiHub-v1.0.5/assets/141304285/82e29c27-aff5-4f17-9fc7-627f9c270e2f)\n
+![5](https://github.com/Sahildavkhar/ResiHub-v1.0.5/assets/141304285/82e29c27-aff5-4f17-9fc7-627f9c270e2f) \n
 
 
 
