@@ -1,7 +1,7 @@
 
-
+<br>
 <img src="https://github.com/Sahildavkhar/ResiHub-v1.0.5/assets/141304285/69508641-6104-4962-b38a-0fa92f64a152" alt="logo" width="200">
-
+<br>
 
 
 
@@ -28,17 +28,17 @@ https://github.com/Sahildavkhar/ResiHub-v1.0.5/assets/141304285/81810d1b-bb57-43
 ## App UI
 
 
-![1](https://github.com/Sahildavkhar/ResiHub-v1.0.5/assets/141304285/f2bd5ae6-0bd7-4cb5-945f-a931a0e85eb2)<br><br><br>
+![1](https://github.com/Sahildavkhar/ResiHub-v1.0.5/assets/141304285/f2bd5ae6-0bd7-4cb5-945f-a931a0e85eb2)<br><br>
 
-![2](https://github.com/Sahildavkhar/ResiHub-v1.0.5/assets/141304285/e5d09e5f-481b-432a-bc40-f529f754ccc1)
+![2](https://github.com/Sahildavkhar/ResiHub-v1.0.5/assets/141304285/e5d09e5f-481b-432a-bc40-f529f754ccc1)<br><br>
 
-![4](https://github.com/Sahildavkhar/ResiHub-v1.0.5/assets/141304285/df05f7ee-3a17-49da-943a-2a0b79ee9077)
+![4](https://github.com/Sahildavkhar/ResiHub-v1.0.5/assets/141304285/df05f7ee-3a17-49da-943a-2a0b79ee9077)<br><br>
 
-![6](https://github.com/Sahildavkhar/ResiHub-v1.0.5/assets/141304285/9f31b13b-221d-4785-a53b-aa6808d551e8)
+![6](https://github.com/Sahildavkhar/ResiHub-v1.0.5/assets/141304285/9f31b13b-221d-4785-a53b-aa6808d551e8)<br><br>
 
-![7](https://github.com/Sahildavkhar/ResiHub-v1.0.5/assets/141304285/a8471072-d1fa-4953-8ae4-95ecec7d122e)
+![7](https://github.com/Sahildavkhar/ResiHub-v1.0.5/assets/141304285/a8471072-d1fa-4953-8ae4-95ecec7d122e)<br><br>
 
-![5](https://github.com/Sahildavkhar/ResiHub-v1.0.5/assets/141304285/82e29c27-aff5-4f17-9fc7-627f9c270e2f)
+![5](https://github.com/Sahildavkhar/ResiHub-v1.0.5/assets/141304285/82e29c27-aff5-4f17-9fc7-627f9c270e2f)<br><br>
 
 
 
