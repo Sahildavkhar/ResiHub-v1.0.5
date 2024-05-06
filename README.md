@@ -28,7 +28,7 @@ https://github.com/Sahildavkhar/ResiHub-v1.0.5/assets/141304285/81810d1b-bb57-43
 ## App UI
 
 
-![1](https://github.com/Sahildavkhar/ResiHub-v1.0.5/assets/141304285/f2bd5ae6-0bd7-4cb5-945f-a931a0e85eb2)<br>
+![1](https://github.com/Sahildavkhar/ResiHub-v1.0.5/assets/141304285/f2bd5ae6-0bd7-4cb5-945f-a931a0e85eb2)<br><br><br>
 
 ![2](https://github.com/Sahildavkhar/ResiHub-v1.0.5/assets/141304285/e5d09e5f-481b-432a-bc40-f529f754ccc1)
 
