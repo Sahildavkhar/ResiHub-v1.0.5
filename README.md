@@ -1,8 +1,8 @@
 
-<p align="center">
-  <img src="https://github.com/Sahildavkhar/ResiHub-v1.0.5/assets/141304285/69508641-6104-4962-b38a-0fa92f64a152" alt="logo" width="150">
-</p>
-\n
+
+<img src="https://github.com/Sahildavkhar/ResiHub-v1.0.5/assets/141304285/69508641-6104-4962-b38a-0fa92f64a152" alt="logo" width="200">
+
+
 
 
 # __ResiHub-A residence management app__
